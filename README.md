@@ -14,9 +14,8 @@ The repository is organized for clarity and easy navigation:
 MNIST-ML-Models/
 │ 
 ├─ ml_project11.py        # Main Python script 
-├─ requirements.txt       # Python dependencies 
 ├─ results/               # Generated plots (confusion matrix, sample predictions) 
-└─ notebooks/             # Optional exploratory notebooks (currently empty)
+└─ report         
 ```
 
 -----
