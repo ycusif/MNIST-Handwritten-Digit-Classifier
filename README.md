@@ -10,10 +10,9 @@ The MNIST dataset contains 70,000 grayscale images of handwritten digits (0–9)
 
 MNIST-ML-Models/
 │
+
 ├─ ml_project11.py # Main Python script
-
 ├─ results/ # Generated plots (confusion matrix, sample predictions)
-
 └─ report
 markdown
 import pandas as pd
