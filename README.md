@@ -11,10 +11,12 @@ The MNIST dataset contains 70,000 grayscale images of handwritten digits (0–9)
 The project is organized for clarity and easy navigation:
 
 MNIST-ML-Models/
-ml_project11.py        # Main Python script for data processing, training, and evaluation.
-results/               # Directory for generated output plots.
-  ├─ confusion_matrix.png # Plot of the Logistic Regression confusion matrix.
-  └─ sample_predictions.png # Plot of visual predictions on test samples.
+ml_project11.py       
+
+results/               
+   confusion_matrix.png 
+   sample_predictions.png 
+
  Report
 
 
